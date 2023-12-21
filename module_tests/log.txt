@@ -1,0 +1,29 @@
+Date and time: Thu Dec 21 11:28:45 2023
+Critical: Yes Error: Socket errorDate and time: Thu Dec 21 11:28:45 2023
+Critical: Yes Error: Socket errorDate and time: Thu Dec 21 11:28:45 2023
+Critical: Yes Error: Socket errorDate and time: Thu Dec 21 11:28:45 2023
+Critical: Yes Error: Socket error: Socket error: Permission deniedDate and time: Thu Dec 21 11:33:41 2023
+Critical: Yes Error: Socket errorDate and time: Thu Dec 21 11:33:41 2023
+Critical: Yes Error: Socket errorDate and time: Thu Dec 21 11:33:41 2023
+Critical: Yes Error: Socket errorDate and time: Thu Dec 21 11:33:41 2023
+Critical: Yes Error: Socket error: Socket error: Permission deniedDate and time: Thu Dec 21 11:40:34 2023
+Critical: Yes Error: Socket errorDate and time: Thu Dec 21 11:40:34 2023
+Critical: Yes Error: Socket errorDate and time: Thu Dec 21 11:40:34 2023
+Critical: Yes Error: Socket errorDate and time: Thu Dec 21 11:40:34 2023
+Critical: Yes Error: Socket error: Socket error: Permission deniedDate and time: Thu Dec 21 11:41:37 2023
+Critical: Yes Error: Socket errorDate and time: Thu Dec 21 11:41:37 2023
+Critical: Yes Error: Socket errorDate and time: Thu Dec 21 11:41:37 2023
+Critical: Yes Error: Socket errorDate and time: Thu Dec 21 11:41:37 2023
+Critical: Yes Error: Socket error: Socket error: Permission deniedDate and time: Thu Dec 21 11:42:38 2023
+Critical: Yes Error: Socket errorDate and time: Thu Dec 21 11:42:38 2023
+Critical: Yes Error: Socket errorDate and time: Thu Dec 21 11:42:38 2023
+Critical: Yes Error: Socket errorDate and time: Thu Dec 21 11:42:38 2023
+Critical: Yes Error: Socket error: Socket error: Permission deniedDate and time: Thu Dec 21 11:44:51 2023
+Critical: Yes Error: Socket errorDate and time: Thu Dec 21 11:44:51 2023
+Critical: Yes Error: Socket errorDate and time: Thu Dec 21 11:44:51 2023
+Critical: Yes Error: Socket errorDate and time: Thu Dec 21 11:44:51 2023
+Critical: Yes Error: Socket error: Socket error: Permission deniedDate and time: Thu Dec 21 11:45:41 2023
+Critical: Yes Error: Socket errorDate and time: Thu Dec 21 11:45:41 2023
+Critical: Yes Error: Socket errorDate and time: Thu Dec 21 11:45:41 2023
+Critical: Yes Error: Socket errorDate and time: Thu Dec 21 11:45:41 2023
+Critical: Yes Error: Socket error: Socket error: Permission denied
